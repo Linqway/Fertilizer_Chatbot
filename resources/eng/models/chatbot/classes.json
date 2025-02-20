@@ -1,0 +1,15 @@
+[
+    "affirm_intent",
+    "ask_crop",
+    "ask_howdoing",
+    "ask_rephrase",
+    "black_soil",
+    "bye",
+    "deny_intent",
+    "greet",
+    "maize_crop",
+    "ragi_crop",
+    "red_soil",
+    "thanks",
+    "wheat_crop"
+]

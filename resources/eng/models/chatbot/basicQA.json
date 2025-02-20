@@ -1,0 +1,527 @@
+{
+	"data": {
+		"greet": {
+			"tag": "greet",
+			"label": "Greet",
+			"id": 1,
+			"patterns": [
+				"hey",
+				"hey bot",
+				"hey there",
+				"hellllooooooo",
+				"heeey",
+				"hi there",
+				"hello there",
+				"hola",
+				"heyho",
+				"yo",
+				"hey dude",
+				"hello is anybody there",
+				"good afternoon efertilizer bot",
+				"heya",
+				"howdy",
+				"what up my bot",
+				"hey let is talk",
+				"good afternoon",
+				"hi",
+				"hi friend",
+				"good morning efertilizer bot",
+				"hello robot",
+				"hiii",
+				"hellllo",
+				"good evening fertilizer bot",
+				"jojojo",
+				"hello friend",
+				"good morning fertilizer bot",
+				"what up",
+				"hello everybody",
+				"hey hey",
+				"hi bot",
+				"hi again",
+				"good evening",
+				"good evening efertilizer bot",
+				"hiihihi",
+				"good morning",
+				"hi there it is me",
+				"i said helllllloooooo",
+				"hi folks",
+				"hello",
+				"hellooo",
+				"hi mister",
+				"hi hi",
+				"wellhellothere",
+				"heyo",
+				"hello it is me again",
+				"hello sweatheart",
+				"helloooo",
+				"hii",
+				"jop",
+				"hallo",
+				"hei",
+				"ayyyy whaddup",
+				"hi pal",
+				"hello sweet boy",
+				"good afternoon fertilizer bot",
+				"greetings",
+				"yoo"
+			],
+			"responses": {
+				"message": [
+					"Hello, welcome to Fertlizer Chatbot Service !"
+				]
+			}
+		},
+		"invalid_text": {
+			"tag": "invalid_text",
+			"label": "Invalid Text",
+			"id": 2,
+			"patterns": [],
+			"responses": {
+				"message": [
+					"Sorry I couldn't understand you. Could you please rephrase your sentence."
+				]
+			}
+		},
+		"ask_howdoing": {
+			"tag": "ask_howdoing",
+			"label": "How are you?",
+			"id": 3,
+			"patterns": [
+				"how is life",
+				"how are you today",
+				"what is good",
+				"how are you doing today my sweet friend",
+				"do you have a great day",
+				"ahoy matey how are you",
+				"are you having a good day",
+				"i am fine and you",
+				"how are you doing this morning",
+				"are you okay",
+				"how are you",
+				"how do you do",
+				"how are things going",
+				"how is it going",
+				"how was your day",
+				"how are things",
+				"what is up man",
+				"how are you doing",
+				"how are things with you",
+				"is everything all right",
+				"what is new",
+				"how are u",
+				"how is life treating you friend",
+				"do you feel good",
+				"what about your day",
+				"how is your day going",
+				"what is going on",
+				"what is up",
+				"how is your evening",
+				"how is it hanging",
+				"how are you feeling",
+				"how have you been",
+				"how is your day",
+				"are you alright",
+				"is everything ok",
+				"how is life been treating you",
+				"how is everything",
+				"are you ok",
+				"is everything okay"
+			],
+			"responses": {
+				"message": [
+					"I'm doing fine. Thank you for asking."
+				]
+			}
+		},
+		"thanks": {
+			"tag": "thanks",
+			"label": "Thanks",
+			"id": 4,
+			"patterns": [
+				"perfect thank you",
+				"thanks a bunch for everything",
+				"thanks a lot",
+				"cheers",
+				"thanks for the help",
+				"cheers hello",
+				"cool thanks",
+				"amazing thanks",
+				"great thanks",
+				"thanks for forum link i will check it out",
+				"thanks for that",
+				"thanks bot",
+				"thank you",
+				"thank you so much",
+				"thanks",
+				"thanks this is great news",
+				"cool thank you",
+				"ok thanks"
+			],
+			"responses": {
+				"message": [
+					"welcome"
+				]
+			}
+		},
+		"bye": {
+			"tag": "bye",
+			"label": "Bye",
+			"id": 5,
+			"patterns": [
+				"goodnight",
+				"goodbye bot",
+				"ciao",
+				"goodbye",
+				"farewell",
+				"goodbye udo",
+				"then goodbye",
+				"toodleoo",
+				"goodbye was good talking to you",
+				"tlak to you later",
+				"good goodbye",
+				"got ta go",
+				"catch you later",
+				"tschssikowski",
+				"goodbye goodbye",
+				"goodbye for now",
+				"k byyye",
+				"see ya",
+				"goodbye goodbye bot",
+				"good night"
+			],
+			"responses": {
+				"message": [
+					"Goodbye!",
+					"Bye!",
+					"Ciao!",
+					"Bye, was nice talking to you!"
+				]
+			}
+		},
+		"deny_intent": {
+			"tag": "deny_intent",
+			"label": "Deny Intent",
+			"id": 6,
+			"patterns": [
+				"i am afraid not",
+				"not really",
+				"no and no again",
+				"never",
+				"definitely not",
+				"no not really",
+				"absolutely not",
+				"nah not for me",
+				"i am not sure",
+				"no",
+				"i do not think so",
+				"no maam",
+				"nah",
+				"no hello",
+				"no sorry",
+				"no way",
+				"nah thanks",
+				"no thanks",
+				"no go"
+			],
+			"responses": {
+				"message": [
+					"ok"
+				]
+			}
+		},
+		"affirm_intent": {
+			"tag": "affirm_intent",
+			"label": "Affirm Intent",
+			"id": 7,
+			"patterns": [
+				"yes",
+				"sure",
+				"yop",
+				"yay",
+				"of course",
+				"yes please",
+				"yas",
+				"yep",
+				"absolutely",
+				"ok",
+				"yeah",
+				"yup"
+			],
+			"responses": {
+				"message": [
+					"ok"
+				]
+			}
+		},
+		"ask_rephrase": {
+			"tag": "ask_rephrase",
+			"label": "Ask Rephrase",
+			"id": 8,
+			"patterns": [
+				"can you rephrase the options",
+				"what",
+				"show me the suggestions again",
+				"kindly rephrase the question",
+				"sorry this is not i wanted to ask",
+				"can you rephrase the question",
+				"i want to ask again",
+				"why"
+			],
+			"responses": {
+				"message": [
+					"No worries, kindly rephrase and ask again."
+				]
+			}
+		},
+		"ragi_crop": {
+			"tag": "ragi_crop",
+			"label": "Ragi Crop",
+			"id": 9,
+			"patterns": [
+				"what is ragi crop",
+				"ragi",
+				"ragi crop"
+			],
+			"responses": {
+				"message": [
+					"Eleusine coracana, or finger millet, also known as ragi in India, kodo in Nepal, is an annual herbaceous plant widely grown as a cereal crop in the arid and semiarid areas in Africa and Asia."
+				],
+				"video": [
+					"https://www.youtube.com/embed/kTn8lUj36vg"
+				],
+				"relatedFAQ": [
+					{
+						"id": 10,
+						"tag": "wheat_crop",
+						"label": "Wheat Crop"
+					}
+				]
+			}
+		},
+		"wheat_crop": {
+			"tag": "wheat_crop",
+			"label": "Wheat Crop",
+			"id": 10,
+			"patterns": [
+				"what is Wheat crop",
+				"Wheat",
+				"wheat"
+			],
+			"responses": {
+				"message": [
+					"Wheat is a grass widely cultivated for its seed, a cereal grain that is a worldwide staple food. The many species of wheat together make up the genus Triticum /ˈtrɪtɪkəm/; the most widely grown is common wheat (T. aestivum)."
+				],
+				"video": [
+					"https://www.youtube.com/embed/fkO3EhG7v3c"
+				]
+			}
+		},
+		"maize_crop": {
+			"tag": "maize_crop",
+			"label": "Maize Crop",
+			"id": 11,
+			"patterns": [
+				"what is Maize",
+				"Maize",
+				"Maize"
+			],
+			"responses": {
+				"message": [
+					"Maize, also known as corn, is a cereal grain first domesticated by indigenous peoples in southern Mexico about 10,000 years ago. The leafy stalk of the plant produces pollen inflorescences and separate ovuliferous inflorescences called ears that when fertilized yield kernels or seeds, which are fruits."
+				],
+				"video": [
+					"https://www.youtube.com/embed/u94iAWIU_6Q"
+				]
+			}
+		},
+		"red_soil": {
+			"tag": "red_soil",
+			"label": "Red Soil",
+			"id": 12,
+			"patterns": [
+				"what is Red soil",
+				"Red Soil",
+				"red soil"
+			],
+			"responses": {
+				"message": [
+					"Red soil is a type of soil that typically develops in warm, temperate, and humid climates and comprise approximately 13% of Earth's soils. It contains thin organic and organic-mineral layers of highly leached soil resting on a red layer of alluvium."
+				],
+				"video": [
+					"https://www.youtube.com/embed/x4yzxN0YF9k"
+				]
+			}
+		},
+		"black_soil": {
+			"tag": "black_soil",
+			"label": "Black Soil",
+			"id": 13,
+			"patterns": [
+				"what is Black soil",
+				"Black Soil",
+				"black soil"
+			],
+			"responses": {
+				"message": [
+					"Red soil is a type of soil that typically develops in warm, temperate, and humid climates and comprise approximately 13% of Earth's soils. It contains thin organic and organic-mineral layers of highly leached soil resting on a red layer of alluvium."
+				],
+				"video": [
+					"https://www.youtube.com/embed/wmc2_CkQvog"
+				]
+			}
+		},
+		"ask_crop": {
+			"tag": "ask_crop",
+			"label": "Ask About A Crop",
+			"id": 9,
+			"patterns": [
+				"crop",
+				"Ask about crop",
+				"show me the suggestions about crop"
+			],
+			"responses": {
+				"message": [
+					"Yes Sure, There you go! Please fill the form for your suggestion"
+				],
+				"form": {
+					"type": "BASIC",
+					"heading": "Please Enter your Details : ",
+					"data": [
+						{
+							"type": "text",
+							"name": "Temprature",
+							"label": "Enter Temparature of Farmland in °C :",
+							"placeholder": "Temparature",
+							"value": "26",
+							"required": true
+						},
+						{
+							"type": "select",
+							"name": "CropType",
+							"label": "Enter type of the Crop : ",
+							"options": [
+								{
+									"label": "Ground Nuts",
+									"value": "Ground Nuts"
+								},
+								{
+									"label": "Millets",
+									"value": "Millets"
+								},
+								{
+									"label": "Maize",
+									"value": "Maize"
+								},
+								{
+									"label": "Sugarcane",
+									"value": "Sugarcane"
+								},
+								{
+									"label": "Tobacco",
+									"value": "Tobacco"
+								},
+								{
+									"label": "Oil seeds",
+									"value": "Oil seeds"
+								},
+								{
+									"label": "Wheat",
+									"value": "Wheat"
+								},
+								{
+									"label": "Paddy",
+									"value": "Paddy"
+								},
+								{
+									"label": "Cotton",
+									"value": "Cotton"
+								},
+								{
+									"label": "Pulses",
+									"value": "Pulses"
+								},
+								{
+									"label": "Barley",
+									"value": "Barley"
+								}
+							],
+							"value": "Maize",
+							"placeholder": "Type of Crop",
+							"required": true
+						},
+						{
+							"type": "select",
+							"name": "SoilType",
+							"label": "Enter Soil Type : ",
+							"options": [
+								{
+									"label": "Clayey",
+									"value": "Clayey"
+								},
+								{
+									"label": "Loamy",
+									"value": "Loamy"
+								},
+								{
+									"label": "Black",
+									"value": "Black"
+								},
+								{
+									"label": "Sandy",
+									"value": "Sandy"
+								},
+								{
+									"label": "Red",
+									"value": "Red"
+								}
+							],
+							"value": "Sandy",
+							"placeholder": "Soil Type",
+							"required": true
+						},
+						{
+							"type": "text",
+							"name": "Humidity",
+							"label": "Enter Humidity",
+							"placeholder": "Enter Humidity Ex:52",
+							"value": "52",
+							"required": true
+						},
+						{
+							"type": "text",
+							"name": "Moisture",
+							"label": "Enter Moisture",
+							"placeholder": "Enter Moisture Ex:38",
+							"value": "38",
+							"required": true
+						},
+						{
+							"type": "text",
+							"name": "Nitrogen",
+							"label": "Enter Nitrogen value present in the soil",
+							"placeholder": "Enter Nitrogen Ex:20",
+							"value": "37",
+							"required": true
+						},
+						{
+							"type": "text",
+							"name": "Potassium",
+							"label": "Enter Potassium value present in the soil",
+							"placeholder": "Enter Potassium Ex:0",
+							"value": "0",
+							"required": true
+						},
+						{
+							"type": "text",
+							"name": "Phosphorous",
+							"label": "Enter Phosphorous value present in the soil",
+							"placeholder": "Enter Phosphorous Ex:0",
+							"value": "0",
+							"required": true
+						}
+					]
+				}
+			}
+		}
+	}
+}

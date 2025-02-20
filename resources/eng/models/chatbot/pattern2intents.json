@@ -1,0 +1,569 @@
+{
+    "hey": [
+        "greet"
+    ],
+    "hey bot": [
+        "greet"
+    ],
+    "hey there": [
+        "greet"
+    ],
+    "hellllooooooo": [
+        "greet"
+    ],
+    "heeey": [
+        "greet"
+    ],
+    "hi there": [
+        "greet"
+    ],
+    "hello there": [
+        "greet"
+    ],
+    "hola": [
+        "greet"
+    ],
+    "heyho": [
+        "greet"
+    ],
+    "yo": [
+        "greet"
+    ],
+    "hey dude": [
+        "greet"
+    ],
+    "hello is anybody there": [
+        "greet"
+    ],
+    "good afternoon efertilizer bot": [
+        "greet"
+    ],
+    "heya": [
+        "greet"
+    ],
+    "howdy": [
+        "greet"
+    ],
+    "what up my bot": [
+        "greet"
+    ],
+    "hey let is talk": [
+        "greet"
+    ],
+    "good afternoon": [
+        "greet"
+    ],
+    "hi": [
+        "greet"
+    ],
+    "hi friend": [
+        "greet"
+    ],
+    "good morning efertilizer bot": [
+        "greet"
+    ],
+    "hello robot": [
+        "greet"
+    ],
+    "hiii": [
+        "greet"
+    ],
+    "hellllo": [
+        "greet"
+    ],
+    "good evening fertilizer bot": [
+        "greet"
+    ],
+    "jojojo": [
+        "greet"
+    ],
+    "hello friend": [
+        "greet"
+    ],
+    "good morning fertilizer bot": [
+        "greet"
+    ],
+    "what up": [
+        "greet"
+    ],
+    "hello everybody": [
+        "greet"
+    ],
+    "hey hey": [
+        "greet"
+    ],
+    "hi bot": [
+        "greet"
+    ],
+    "hi again": [
+        "greet"
+    ],
+    "good evening": [
+        "greet"
+    ],
+    "good evening efertilizer bot": [
+        "greet"
+    ],
+    "hiihihi": [
+        "greet"
+    ],
+    "good morning": [
+        "greet"
+    ],
+    "hi there it is me": [
+        "greet"
+    ],
+    "i said helllllloooooo": [
+        "greet"
+    ],
+    "hi folks": [
+        "greet"
+    ],
+    "hello": [
+        "greet"
+    ],
+    "hellooo": [
+        "greet"
+    ],
+    "hi mister": [
+        "greet"
+    ],
+    "hi hi": [
+        "greet"
+    ],
+    "wellhellothere": [
+        "greet"
+    ],
+    "heyo": [
+        "greet"
+    ],
+    "hello it is me again": [
+        "greet"
+    ],
+    "hello sweatheart": [
+        "greet"
+    ],
+    "helloooo": [
+        "greet"
+    ],
+    "hii": [
+        "greet"
+    ],
+    "jop": [
+        "greet"
+    ],
+    "hallo": [
+        "greet"
+    ],
+    "hei": [
+        "greet"
+    ],
+    "ayyyy whaddup": [
+        "greet"
+    ],
+    "hi pal": [
+        "greet"
+    ],
+    "hello sweet boy": [
+        "greet"
+    ],
+    "good afternoon fertilizer bot": [
+        "greet"
+    ],
+    "greetings": [
+        "greet"
+    ],
+    "yoo": [
+        "greet"
+    ],
+    "how is life": [
+        "ask_howdoing"
+    ],
+    "how are you today": [
+        "ask_howdoing"
+    ],
+    "what is good": [
+        "ask_howdoing"
+    ],
+    "how are you doing today my sweet friend": [
+        "ask_howdoing"
+    ],
+    "do you have a great day": [
+        "ask_howdoing"
+    ],
+    "ahoy matey how are you": [
+        "ask_howdoing"
+    ],
+    "are you having a good day": [
+        "ask_howdoing"
+    ],
+    "i am fine and you": [
+        "ask_howdoing"
+    ],
+    "how are you doing this morning": [
+        "ask_howdoing"
+    ],
+    "are you okay": [
+        "ask_howdoing"
+    ],
+    "how are you": [
+        "ask_howdoing"
+    ],
+    "how do you do": [
+        "ask_howdoing"
+    ],
+    "how are things going": [
+        "ask_howdoing"
+    ],
+    "how is it going": [
+        "ask_howdoing"
+    ],
+    "how was your day": [
+        "ask_howdoing"
+    ],
+    "how are things": [
+        "ask_howdoing"
+    ],
+    "what is up man": [
+        "ask_howdoing"
+    ],
+    "how are you doing": [
+        "ask_howdoing"
+    ],
+    "how are things with you": [
+        "ask_howdoing"
+    ],
+    "is everything all right": [
+        "ask_howdoing"
+    ],
+    "what is new": [
+        "ask_howdoing"
+    ],
+    "how are u": [
+        "ask_howdoing"
+    ],
+    "how is life treating you friend": [
+        "ask_howdoing"
+    ],
+    "do you feel good": [
+        "ask_howdoing"
+    ],
+    "what about your day": [
+        "ask_howdoing"
+    ],
+    "how is your day going": [
+        "ask_howdoing"
+    ],
+    "what is going on": [
+        "ask_howdoing"
+    ],
+    "what is up": [
+        "ask_howdoing"
+    ],
+    "how is your evening": [
+        "ask_howdoing"
+    ],
+    "how is it hanging": [
+        "ask_howdoing"
+    ],
+    "how are you feeling": [
+        "ask_howdoing"
+    ],
+    "how have you been": [
+        "ask_howdoing"
+    ],
+    "how is your day": [
+        "ask_howdoing"
+    ],
+    "are you alright": [
+        "ask_howdoing"
+    ],
+    "is everything ok": [
+        "ask_howdoing"
+    ],
+    "how is life been treating you": [
+        "ask_howdoing"
+    ],
+    "how is everything": [
+        "ask_howdoing"
+    ],
+    "are you ok": [
+        "ask_howdoing"
+    ],
+    "is everything okay": [
+        "ask_howdoing"
+    ],
+    "perfect thank you": [
+        "thanks"
+    ],
+    "thanks a bunch for everything": [
+        "thanks"
+    ],
+    "thanks a lot": [
+        "thanks"
+    ],
+    "cheers": [
+        "thanks"
+    ],
+    "thanks for the help": [
+        "thanks"
+    ],
+    "cheers hello": [
+        "thanks"
+    ],
+    "cool thanks": [
+        "thanks"
+    ],
+    "amazing thanks": [
+        "thanks"
+    ],
+    "great thanks": [
+        "thanks"
+    ],
+    "thanks for forum link i will check it out": [
+        "thanks"
+    ],
+    "thanks for that": [
+        "thanks"
+    ],
+    "thanks bot": [
+        "thanks"
+    ],
+    "thank you": [
+        "thanks"
+    ],
+    "thank you so much": [
+        "thanks"
+    ],
+    "thanks": [
+        "thanks"
+    ],
+    "thanks this is great news": [
+        "thanks"
+    ],
+    "cool thank you": [
+        "thanks"
+    ],
+    "ok thanks": [
+        "thanks"
+    ],
+    "goodnight": [
+        "bye"
+    ],
+    "goodbye bot": [
+        "bye"
+    ],
+    "ciao": [
+        "bye"
+    ],
+    "goodbye": [
+        "bye"
+    ],
+    "farewell": [
+        "bye"
+    ],
+    "goodbye udo": [
+        "bye"
+    ],
+    "then goodbye": [
+        "bye"
+    ],
+    "toodleoo": [
+        "bye"
+    ],
+    "goodbye was good talking to you": [
+        "bye"
+    ],
+    "tlak to you later": [
+        "bye"
+    ],
+    "good goodbye": [
+        "bye"
+    ],
+    "got ta go": [
+        "bye"
+    ],
+    "catch you later": [
+        "bye"
+    ],
+    "tschssikowski": [
+        "bye"
+    ],
+    "goodbye goodbye": [
+        "bye"
+    ],
+    "goodbye for now": [
+        "bye"
+    ],
+    "k byyye": [
+        "bye"
+    ],
+    "see ya": [
+        "bye"
+    ],
+    "goodbye goodbye bot": [
+        "bye"
+    ],
+    "good night": [
+        "bye"
+    ],
+    "i am afraid not": [
+        "deny_intent"
+    ],
+    "not really": [
+        "deny_intent"
+    ],
+    "no and no again": [
+        "deny_intent"
+    ],
+    "never": [
+        "deny_intent"
+    ],
+    "definitely not": [
+        "deny_intent"
+    ],
+    "no not really": [
+        "deny_intent"
+    ],
+    "absolutely not": [
+        "deny_intent"
+    ],
+    "nah not for me": [
+        "deny_intent"
+    ],
+    "i am not sure": [
+        "deny_intent"
+    ],
+    "no": [
+        "deny_intent"
+    ],
+    "i do not think so": [
+        "deny_intent"
+    ],
+    "no maam": [
+        "deny_intent"
+    ],
+    "nah": [
+        "deny_intent"
+    ],
+    "no hello": [
+        "deny_intent"
+    ],
+    "no sorry": [
+        "deny_intent"
+    ],
+    "no way": [
+        "deny_intent"
+    ],
+    "nah thanks": [
+        "deny_intent"
+    ],
+    "no thanks": [
+        "deny_intent"
+    ],
+    "no go": [
+        "deny_intent"
+    ],
+    "yes": [
+        "affirm_intent"
+    ],
+    "sure": [
+        "affirm_intent"
+    ],
+    "yop": [
+        "affirm_intent"
+    ],
+    "yay": [
+        "affirm_intent"
+    ],
+    "of course": [
+        "affirm_intent"
+    ],
+    "yes please": [
+        "affirm_intent"
+    ],
+    "yas": [
+        "affirm_intent"
+    ],
+    "yep": [
+        "affirm_intent"
+    ],
+    "absolutely": [
+        "affirm_intent"
+    ],
+    "ok": [
+        "affirm_intent"
+    ],
+    "yeah": [
+        "affirm_intent"
+    ],
+    "yup": [
+        "affirm_intent"
+    ],
+    "can you rephrase the options": [
+        "ask_rephrase"
+    ],
+    "what": [
+        "ask_rephrase"
+    ],
+    "show me the suggestions again": [
+        "ask_rephrase"
+    ],
+    "kindly rephrase the question": [
+        "ask_rephrase"
+    ],
+    "sorry this is not i wanted to ask": [
+        "ask_rephrase"
+    ],
+    "can you rephrase the question": [
+        "ask_rephrase"
+    ],
+    "i want to ask again": [
+        "ask_rephrase"
+    ],
+    "why": [
+        "ask_rephrase"
+    ],
+    "what is ragi crop": [
+        "ragi_crop"
+    ],
+    "ragi": [
+        "ragi_crop"
+    ],
+    "ragi crop": [
+        "ragi_crop"
+    ],
+    "what is wheat crop": [
+        "wheat_crop"
+    ],
+    "wheat": [
+        "wheat_crop"
+    ],
+    "what is maize": [
+        "maize_crop"
+    ],
+    "maize": [
+        "maize_crop"
+    ],
+    "what is red soil": [
+        "red_soil"
+    ],
+    "red soil": [
+        "red_soil"
+    ],
+    "what is black soil": [
+        "black_soil"
+    ],
+    "black soil": [
+        "black_soil"
+    ],
+    "crop": [
+        "ask_crop"
+    ],
+    "ask about crop": [
+        "ask_crop"
+    ],
+    "show me the suggestions about crop": [
+        "ask_crop"
+    ]
+}
