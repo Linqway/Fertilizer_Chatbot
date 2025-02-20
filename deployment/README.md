@@ -1,0 +1,1 @@
+zip Structure of Deployable Django server comes here.
